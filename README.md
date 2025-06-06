@@ -80,7 +80,7 @@ Before you begin, ensure you have the following:
 
 ## Usage
 
-Once the firmware is uploaded, your Dot X hardware is ready to use. Connect it to your computer, open Dot X, and start adjusting your audio settings and using your customized hotkeys.
+Once the firmware is uploaded, your Dot X hardware is ready to use. Connect it to your computer, open Dot X, and add the programs or system features you want to control.
 
 For information on how to install and set up Dot X, please visit [the docs](https://docs.dotmatrixlabs.com/dot-x/)
 
