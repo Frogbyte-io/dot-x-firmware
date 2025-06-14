@@ -95,4 +95,4 @@ This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) f
 
 ## Contact
 
-For any questions or support, please open an issue in this repository or contact us at post@frogbyte.io
+For any questions or support, please open an issue in this repository or contact us at support@dotmatrixlabs.com
